@@ -16,7 +16,7 @@ The custom PCB integrates the microcontroller, display connections, buttons, sen
 
 ## Why?
 
-This project was created as my Week 1 project for [Half Life](https://halflife.hackclub.com/?ref=2639), a 10 weeks hardware-building program.
+This project was created as my Week 1 project for [Half Life](https://halflife.hackclub.com/?ref=2639), a 10 weeks hardware-building program powered by hackclub.
 
 My goal was to adapt the original design and add a physical response to the pet's interactions through a vibration motor and its driver circuit.
 
