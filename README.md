@@ -1,6 +1,7 @@
 # Starbie
 
 ![Starbie 3D PCB render](Images/pcb-3d.png)
+![Starbie 3D PCB render](Images/pcb-layout.png)
 
 Starbie is a tiny motion-controlled digital pet — essentially a desktop Tamagotchi with minimal gameplay buttons. Instead of relying entirely on button presses, you interact with the pet by moving the device.
 
