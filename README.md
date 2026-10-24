@@ -77,6 +77,7 @@ See [`Firmware/README.md`](Firmware/README.md) for the development environment, 
 - [`Hardware/`](Hardware/) — KiCad schematic and PCB source files.
 - [`Images/`](Images/) — PCB renders and design screenshots.
 - [`Firmware/`](Firmware/) — PlatformIO firmware project.
+- [`Fabrication/`](Hardware/Fabrication/) — PCB fabrication files (Gerber, gbrjob and drl files)
 
 ## Credits
 
